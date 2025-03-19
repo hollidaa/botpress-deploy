@@ -1,0 +1,12 @@
+{
+  "name": "botpress-deploy",
+  "version": "1.0.0",
+  "description": "Botpress deployment on Render",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
